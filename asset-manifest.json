@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Smoke-Away/static/css/main.79a4be77.css",
+    "main.js": "/Smoke-Away/static/js/main.2a7e7fe2.js",
+    "static/js/787.44850746.chunk.js": "/Smoke-Away/static/js/787.44850746.chunk.js",
+    "index.html": "/Smoke-Away/index.html",
+    "main.79a4be77.css.map": "/Smoke-Away/static/css/main.79a4be77.css.map",
+    "main.2a7e7fe2.js.map": "/Smoke-Away/static/js/main.2a7e7fe2.js.map",
+    "787.44850746.chunk.js.map": "/Smoke-Away/static/js/787.44850746.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79a4be77.css",
+    "static/js/main.2a7e7fe2.js"
+  ]
+}
