@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Smoke-Away/static/css/main.c68fd0f4.css",
-    "main.js": "/Smoke-Away/static/js/main.f443cced.js",
+    "main.js": "/Smoke-Away/static/js/main.1ea76be6.js",
     "static/js/787.44850746.chunk.js": "/Smoke-Away/static/js/787.44850746.chunk.js",
     "static/media/cause.png": "/Smoke-Away/static/media/cause.72815d15199b70d3dc1d.png",
     "static/media/lungcancer.png": "/Smoke-Away/static/media/lungcancer.8eaf7ff39a7cda594c69.png",
@@ -11,11 +11,11 @@
     "static/media/game4.png": "/Smoke-Away/static/media/game4.0046962dd75e3f2ebe25.png",
     "index.html": "/Smoke-Away/index.html",
     "main.c68fd0f4.css.map": "/Smoke-Away/static/css/main.c68fd0f4.css.map",
-    "main.f443cced.js.map": "/Smoke-Away/static/js/main.f443cced.js.map",
+    "main.1ea76be6.js.map": "/Smoke-Away/static/js/main.1ea76be6.js.map",
     "787.44850746.chunk.js.map": "/Smoke-Away/static/js/787.44850746.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c68fd0f4.css",
-    "static/js/main.f443cced.js"
+    "static/js/main.1ea76be6.js"
   ]
 }
